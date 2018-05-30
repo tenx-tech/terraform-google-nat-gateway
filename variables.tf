@@ -148,5 +148,9 @@ variable region_params {
     us-west1 = {
       zone = "us-west1-b"
     }
+    
+    ap-southeast1 = {
+      zone = "ap-southeast1-b"
+    }
   }
 }
